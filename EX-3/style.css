@@ -1,0 +1,22 @@
+/* TODO */
+body {
+    text-align: center;
+    margin-top: 100px;
+}
+
+button {
+    background-color: #e47abb;
+    color: white;
+    border: 6px solid #99437a;
+    border-radius: 40px;
+    padding: 25px 80px;
+    font-size: 32px;
+
+
+}
+
+button:hover {
+    background-color: #a5498d;
+    border-color: #7b3166;
+    cursor: pointer;
+}
